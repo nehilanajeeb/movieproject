@@ -1,0 +1,9 @@
+body{
+background-color:transparent;
+}
+.navbar-brand {
+  text-align: center;
+  border: 3px solid green;
+}
+.navbar navbar-dark bg-dark{ text-align: center;
+}
